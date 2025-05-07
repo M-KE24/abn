@@ -55,7 +55,7 @@ name: 'NBA- GAME 2 - Boston Celtics vs New York Knicks 7:00am ',
 		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10',
 	                             },	 
          {        
-name: 'NBA- GAME 2- Boston Celtics vs New York Knicks 7:00am',
+name: 'NBA- GAME 2 - Oklahoma City Thunder vs Denver Nuggets 9:30am',
         url: 'https://honortv.netlify.app/stream/nba2.m3u8',
         type: 'hls',
 		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10'	 
