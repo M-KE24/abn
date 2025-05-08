@@ -155,21 +155,19 @@
             color: rgba(255, 255, 255, 0.5);
             
     }
+.nav-item i {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 5px;
+  transition: transform 0.2s cubic-bezier(0.68, -0.55, 0.27, 1.55); /* Smooth bounce effect */
+}
 
-    .footer {
-      margin-top: 50px;
-      font-size: 10px;
-      font-weight: bolder;
-      color: #8a0303;
-      margin-bottom: 20px;
-    }
+.nav-item:hover {
+  color: #a80306; /* Change color to normal white on hover */
+  transform: scale(1.1);
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.8), 0 0 16px rgba(255, 255, 255, 0.6); /* Normal white glow effect */
+}
 
-    .footer a {
-      color: #03a819;
-      text-decoration: none;
-    }
-
-    .footer a:hover {
-      text-decoration: underline;
-    }
-
+.nav-item:hover i {
+  transform: scale(1.4); /* Enlarge the icon */
+        }
