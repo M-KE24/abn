@@ -155,6 +155,20 @@
             color: rgba(255, 255, 255, 0.5);
             
     }
+.bottom-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-around;
+  background-color: #10013d; /* Dark background */
+  padding: 5px;
+  border-top: 2px solid #333; /* Darker border for contrast */
+  z-index: 1000;
+  transition: background-color 0.3s ease-in-out;
+}
+
 .nav-item {
   color: #07ded7; /* Light gray text for better contrast */
   text-align: center;
