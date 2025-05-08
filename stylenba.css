@@ -195,5 +195,22 @@
 .nav-item:hover i {
   transform: scale(1.4); /* Enlarge the icon */
         }
+    }
 
+    #footer {
+      margin-top: 50px;
+      font-size: 10px;
+      font-weight: bolder;
+      color: #8a0303;
+      margin-bottom: 20px;
+    }
+
+    #footer a {
+      color: #03a819;
+      text-decoration: none;
+    }
+
+    #footer a:hover {
+      text-decoration: underline;
+    }
 
