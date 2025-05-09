@@ -49,14 +49,14 @@ document.addEventListener("DOMContentLoaded", async () => {
         key: '0125600d0eb13359c28bdab4a2ebe75a',
                  },	 
          {        
-name: 'NBA- GAME 2 - Minnesota Timberwolves vs Golden State Warriors 8:30am server1',
-        url: 'https://v14.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8',
+name: 'NBA- GAME 3 - Indiana Pacers vs Cleveland Cavaliers 7:30am',
+        url: 'https://v18.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8',
         type: 'hls',
 		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10',
 	                             },	 
          {        
-name: 'NBA- GAME 2 - Minnesota Timberwolves vs Golden State Warriors 8:30am server2',
-        url: 'https://v14.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8',
+name: 'NBA- GAME 3 - Denver Nuggets vs Oklahoma City Thunder 10:00am',
+        url: 'https://v12.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8',
         type: 'hls',
 		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10'	 
          }
