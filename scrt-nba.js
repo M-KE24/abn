@@ -59,7 +59,8 @@ name: 'NBA🏀- GAME 3 - Denver Nuggets vs Oklahoma City Thunder 10:00am',
         url: 'https://v12.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8',
         type: 'hls',
 		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10',
-		          {        
+		        }, 
+		 {        
 name: 'Boxing 🥊- Dainier Pero vs Cesar Navarro 5/10/25, 8:30am',
         url: 'https://v4.thetvapp.to/hls/PPV01/tracks-v1a1/mono.m3u8',
         type: 'hls',
