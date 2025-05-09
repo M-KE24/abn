@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", async () => {
                  },	 
          {        
 name: 'NBA- GAME 3 - Indiana Pacers vs Cleveland Cavaliers 7:30am',
-        url: 'https://v18.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8',
+        url: 'https://pl2.schinejamp.space/playlist/33865/a.stongbluu.space/caxi',
         type: 'hls',
 		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10',
 	                             },	 
