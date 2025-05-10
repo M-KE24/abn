@@ -61,7 +61,7 @@ name: 'NBA🏀- GAME 3 - Golden State Warriors vs Minnesota Timberwolves 8:30am'
 		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10',
 		        }, 
 		 {        
-name: 'Boxing 🥊- Dainier Pero vs Cesar Navarro 5/10/25, 8:30am',
+name: 'Boxing 🥊- Emanuel Navarrete vs Charly Suarez',
         url: 'https://v4.thetvapp.to/hls/PPV01/tracks-v1a1/mono.m3u8',
         type: 'hls',
 		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2PXc6Eh0t0G4In-1nDgqQ329GeMOVB6fJo9LkHt6OsjwWOEpGF9-4d30&s=10'	 
