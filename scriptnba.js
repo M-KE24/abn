@@ -1,1 +1,171 @@
-function _0x4d1e(){const _0x11bf45=['filter','f36eed9e95f140fabbc88a08abbeafff','click','\x22\x20/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22channel-info\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22channel-name\x22>','value','NBA🏀-\x20GAME\x203\x20-\x20New\x20York\x20Knicks\x20vs\x20Boston\x20Celtics\x203:30am','active','1869695pFGuPa','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2PXc6Eh0t0G4In-1nDgqQ329GeMOVB6fJo9LkHt6OsjwWOEpGF9-4d30&s=10','addEventListener','canPlayType','getElementById','toUpperCase','10856SKevVD','forEach','2bPFHPb','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22channel-content\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22channel-logo\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22','MANIFEST_PARSED','player','channelIndex','5085256omAfPV','load','\x22\x20alt=\x22','toLowerCase','6190695tFVsyF','NBA🏀-\x20GAME\x203\x20-\x20Golden\x20State\x20Warriors\x20vs\x20Minnesota\x20Timberwolves\x208:30am','length','installAll','Player','polyfill','dataset','https://v4.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8','channelList','name','type','remove','mpd','input','style','hls','2251782EpeAxp','NBA\x20TV\x20Philippines','2299490QEeCvI','embedUrl','https://v4.thetvapp.to/hls/PPV01/tracks-v1a1/mono.m3u8','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10','566348zardef','attachMedia','keyId','HLS.js\x20Error:','application/vnd.apple.mpegurl','includes','https://i.imgur.com/sG7zuX0.png','logo','error','configure','Boxing\x20🥊-\x20Emanuel\x20Navarrete\x20vs\x20Charly\x20Suarez','play','classList','target','ERROR','querySelectorAll','url','https://v16.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8','DOMContentLoaded','.search-input','45xtFUnh','282judagH','block','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22channel-type\x22>','display','none','destroy','join','youtube-player','indexOf','loadSource','Events','querySelector','https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd','key','src'];_0x4d1e=function(){return _0x11bf45;};return _0x4d1e();}function _0x2ce1(_0x1ea0e4,_0x544977){const _0x4d1e29=_0x4d1e();return _0x2ce1=function(_0x2ce121,_0x208b6d){_0x2ce121=_0x2ce121-0x13b;let _0x3fd2b8=_0x4d1e29[_0x2ce121];return _0x3fd2b8;},_0x2ce1(_0x1ea0e4,_0x544977);}const _0x398147=_0x2ce1;(function(_0x12bb7b,_0x4c2929){const _0x1fd0de=_0x2ce1,_0x16053e=_0x12bb7b();while(!![]){try{const _0x32c5b5=parseInt(_0x1fd0de(0x16c))/0x1*(parseInt(_0x1fd0de(0x18b))/0x2)+parseInt(_0x1fd0de(0x14e))/0x3*(parseInt(_0x1fd0de(0x16a))/0x4)+-parseInt(_0x1fd0de(0x164))/0x5+-parseInt(_0x1fd0de(0x185))/0x6+parseInt(_0x1fd0de(0x175))/0x7+parseInt(_0x1fd0de(0x171))/0x8+parseInt(_0x1fd0de(0x14d))/0x9*(-parseInt(_0x1fd0de(0x187))/0xa);if(_0x32c5b5===_0x4c2929)break;else _0x16053e['push'](_0x16053e['shift']());}catch(_0x96f4ca){_0x16053e['push'](_0x16053e['shift']());}}}(_0x4d1e,0x6c09d),document[_0x398147(0x166)](_0x398147(0x14b),async()=>{const _0x560682=_0x398147,_0x325206=document['getElementById'](_0x560682(0x16f)),_0x10e3a5=document[_0x560682(0x168)](_0x560682(0x155)),_0x3bfbab=document[_0x560682(0x159)](_0x560682(0x14c)),_0x392c75=document[_0x560682(0x168)](_0x560682(0x17d));let _0x58a433=null,_0x3ab6d7=null,_0x52b8ab=null;shaka[_0x560682(0x17a)][_0x560682(0x178)]();function _0x104ad4(){const _0x1cce41=_0x560682;return _0x3ab6d7&&_0x3ab6d7['destroy'](),_0x3ab6d7=new shaka[(_0x1cce41(0x179))](_0x325206),_0x3ab6d7['addEventListener'](_0x1cce41(0x141),_0xd4264b=>{console['error']('Shaka\x20Player\x20Error:',_0xd4264b);}),_0x3ab6d7;}function _0x5f0f0d(){const _0x92085=_0x560682;_0x52b8ab&&_0x52b8ab[_0x92085(0x153)]();if(Hls['isSupported']())return _0x52b8ab=new Hls({'enableWorker':!![],'lowLatencyMode':!![]}),_0x52b8ab[_0x92085(0x18c)](_0x325206),_0x52b8ab['on'](Hls[_0x92085(0x158)][_0x92085(0x147)],(_0x5c9308,_0x4708fc)=>{const _0x2396dc=_0x92085;console['error'](_0x2396dc(0x13c),_0x4708fc);}),_0x52b8ab;return null;}const _0x3f87ba=[{'name':_0x560682(0x186),'logo':_0x560682(0x13f),'type':_0x560682(0x181),'url':_0x560682(0x15a),'keyId':_0x560682(0x15e),'key':'0125600d0eb13359c28bdab4a2ebe75a'},{'name':_0x560682(0x162),'url':_0x560682(0x14a),'type':_0x560682(0x184),'logo':_0x560682(0x18a)},{'name':_0x560682(0x176),'url':_0x560682(0x17c),'type':'hls','logo':_0x560682(0x18a)},{'name':_0x560682(0x143),'url':_0x560682(0x189),'type':_0x560682(0x184),'logo':_0x560682(0x165)}];async function _0x3b5f01(){const _0x2767fd=_0x560682;_0x10e3a5[_0x2767fd(0x15c)]='',_0x10e3a5['style'][_0x2767fd(0x151)]=_0x2767fd(0x152),_0x3ab6d7&&(await _0x3ab6d7[_0x2767fd(0x153)](),_0x3ab6d7=null),_0x52b8ab&&(_0x52b8ab[_0x2767fd(0x153)](),_0x52b8ab=null),_0x325206[_0x2767fd(0x183)][_0x2767fd(0x151)]=_0x2767fd(0x14f),_0x325206[_0x2767fd(0x15c)]='',_0x325206[_0x2767fd(0x172)]();}async function _0x504033(_0x197400){const _0x8852f0=_0x560682;try{await _0x3b5f01();if(_0x197400[_0x8852f0(0x17f)]==='youtube')_0x325206[_0x8852f0(0x183)][_0x8852f0(0x151)]='none',_0x10e3a5[_0x8852f0(0x183)]['display']=_0x8852f0(0x14f),_0x10e3a5[_0x8852f0(0x15c)]=_0x197400[_0x8852f0(0x188)]+'&autoplay=1';else{if(_0x197400[_0x8852f0(0x17f)]===_0x8852f0(0x184)){_0x52b8ab=_0x5f0f0d();if(_0x52b8ab)_0x52b8ab[_0x8852f0(0x157)](_0x197400[_0x8852f0(0x149)]),_0x52b8ab['on'](Hls[_0x8852f0(0x158)][_0x8852f0(0x16e)],()=>{const _0x4b0ca4=_0x8852f0;_0x325206[_0x4b0ca4(0x144)]();});else _0x325206[_0x8852f0(0x167)](_0x8852f0(0x13d))&&(_0x325206[_0x8852f0(0x15c)]=_0x197400[_0x8852f0(0x149)],_0x325206['play']());}else _0x197400['type']===_0x8852f0(0x181)&&(_0x3ab6d7=_0x104ad4(),_0x197400[_0x8852f0(0x13b)]&&_0x197400[_0x8852f0(0x15b)]&&_0x3ab6d7[_0x8852f0(0x142)]({'drm':{'clearKeys':{[_0x197400[_0x8852f0(0x13b)]]:_0x197400[_0x8852f0(0x15b)]}}}),await _0x3ab6d7[_0x8852f0(0x172)](_0x197400[_0x8852f0(0x149)]),_0x325206[_0x8852f0(0x144)]());}}catch(_0x954de0){console[_0x8852f0(0x141)]('Error\x20playing\x20stream:',_0x954de0);}}function _0x541f33(_0x44f92f){const _0x3f20a4=_0x560682;_0x392c75['innerHTML']=_0x44f92f['map'](_0x11c06e=>'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li\x20class=\x22channel-item\x20'+(_0x11c06e===_0x58a433?'active':'')+'\x22\x20data-channel-index=\x22'+_0x3f87ba[_0x3f20a4(0x156)](_0x11c06e)+_0x3f20a4(0x16d)+_0x11c06e[_0x3f20a4(0x140)]+_0x3f20a4(0x173)+_0x11c06e[_0x3f20a4(0x17e)]+_0x3f20a4(0x160)+_0x11c06e[_0x3f20a4(0x17e)]+_0x3f20a4(0x150)+_0x11c06e[_0x3f20a4(0x17f)][_0x3f20a4(0x169)]()+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20')[_0x3f20a4(0x154)](''),document[_0x3f20a4(0x148)]('.channel-item')[_0x3f20a4(0x16b)](_0x541358=>{const _0x41f527=_0x3f20a4;_0x541358['addEventListener'](_0x41f527(0x15f),async()=>{const _0xb092=_0x41f527,_0x7a5d2b=_0x3f87ba[parseInt(_0x541358[_0xb092(0x17b)][_0xb092(0x170)])];_0x58a433=_0x7a5d2b,await _0x504033(_0x7a5d2b),document[_0xb092(0x148)]('.channel-item')[_0xb092(0x16b)](_0x234e39=>_0x234e39['classList'][_0xb092(0x180)](_0xb092(0x163))),_0x541358[_0xb092(0x145)]['add'](_0xb092(0x163));});});}_0x541f33(_0x3f87ba),_0x3f87ba[_0x560682(0x177)]>0x0&&(_0x58a433=_0x3f87ba[0x0],await _0x504033(_0x58a433)),_0x3bfbab[_0x560682(0x166)](_0x560682(0x182),_0xf3da4b=>{const _0x500f68=_0x560682,_0x5f533e=_0xf3da4b[_0x500f68(0x146)][_0x500f68(0x161)][_0x500f68(0x174)](),_0x327d49=_0x3f87ba[_0x500f68(0x15d)](_0x3a42cb=>_0x3a42cb[_0x500f68(0x17e)][_0x500f68(0x174)]()[_0x500f68(0x13e)](_0x5f533e));_0x541f33(_0x327d49);});}));
+document.addEventListener("DOMContentLoaded", async () => {
+            const video = document.getElementById('player');
+            const youtubeEmbed = document.getElementById('youtube-player');
+            const searchInput = document.querySelector('.search-input');
+            const channelList = document.getElementById('channelList');
+            
+            let currentChannel = null;
+            let shakaPlayer = null;
+            let hlsPlayer = null;
+
+            // Initialize Shaka Player
+            shaka.polyfill.installAll();
+
+            function initializeShakaPlayer() {
+                if (shakaPlayer) {
+                    shakaPlayer.destroy();
+                }
+                shakaPlayer = new shaka.Player(video);
+                shakaPlayer.addEventListener('error', (error) => {
+                    console.error('Shaka Player Error:', error);
+                });
+                return shakaPlayer;
+            }
+
+            function initializeHLSPlayer() {
+                if (hlsPlayer) {
+                    hlsPlayer.destroy();
+                }
+                if (Hls.isSupported()) {
+                    hlsPlayer = new Hls({
+                        enableWorker: true,
+                        lowLatencyMode: true
+                    });
+                    hlsPlayer.attachMedia(video);
+                    hlsPlayer.on(Hls.Events.ERROR, (event, data) => {
+                        console.error('HLS.js Error:', data);
+                    });
+                    return hlsPlayer;
+                }
+                return null;
+            }
+       const channels = [
+{
+        name: 'NBA TV Philippines',
+        logo: 'https://i.imgur.com/sG7zuX0.png',
+        type: 'mpd',
+        url: 'https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd',
+        keyId: 'f36eed9e95f140fabbc88a08abbeafff',
+        key: '0125600d0eb13359c28bdab4a2ebe75a',
+                 },	 
+         {        
+name: 'NBA🏀- GAME 3 - New York Knicks vs Boston Celtics 3:30am',
+        url: 'https://v16.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8',
+        type: 'hls',
+		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10',
+	                             },	 
+         {        
+name: 'NBA🏀- GAME 3 - Golden State Warriors vs Minnesota Timberwolves 8:30am',
+        url: 'https://v4.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8',
+        type: 'hls',
+		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10',
+		        }, 
+		 {        
+name: 'WWE- BACKLASH 2025',
+        url: 'https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OGE3NDFjOTVjOWQwLTQ0N2EtNjcyNC1mYzA4LTE4Y2MyYWVm/master.m3u8?md5=8Z0pvnaryVaae-kvXMIL4g&expires=1746958322',
+        type: 'hls',
+		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGhaN6N-Uvoi5HUt4xrlv62hs45UuCwIO_nmzVLJ6YiiBVVaOEPHFkYOQ&s=10'	 
+         }
+            ];	
+			
+	async function cleanupPlayers() {
+                youtubeEmbed.src = '';
+                youtubeEmbed.style.display = 'none';
+
+                if (shakaPlayer) {
+                    await shakaPlayer.destroy();
+                    shakaPlayer = null;
+                }
+
+                if (hlsPlayer) {
+                    hlsPlayer.destroy();
+                    hlsPlayer = null;
+                }
+
+                video.style.display = 'block';
+                video.src = '';
+                video.load();
+            }
+
+            async function playStream(channel) {
+                try {
+                    await cleanupPlayers();
+
+                    if (channel.type === 'youtube') {
+                        video.style.display = 'none';
+                        youtubeEmbed.style.display = 'block';
+                        youtubeEmbed.src = `${channel.embedUrl}&autoplay=1`;
+                    } else if (channel.type === 'hls') {
+                        hlsPlayer = initializeHLSPlayer();
+                        if (hlsPlayer) {
+                            hlsPlayer.loadSource(channel.url);
+                            hlsPlayer.on(Hls.Events.MANIFEST_PARSED, () => {
+                                video.play();
+                            });
+                        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                            // Fallback for Safari
+                            video.src = channel.url;
+                            video.play();
+                        }
+                    } else if (channel.type === 'mpd') {
+                        shakaPlayer = initializeShakaPlayer();
+                        
+                        if (channel.keyId && channel.key) {
+                            shakaPlayer.configure({
+                                drm: {
+                                    clearKeys: {
+                                        [channel.keyId]: channel.key
+                                    }
+                                }
+                            });
+                        }
+
+                        await shakaPlayer.load(channel.url);
+                        video.play();
+                    }
+                } catch (error) {
+                    console.error('Error playing stream:', error);
+                }
+            }
+
+            function renderChannelList(channelsToRender) {
+                channelList.innerHTML = channelsToRender.map(channel => `
+                    <li class="channel-item ${channel === currentChannel ? 'active' : ''}" data-channel-index="${channels.indexOf(channel)}">
+                        <div class="channel-content">
+                            <div class="channel-logo">
+                                <img src="${channel.logo}" alt="${channel.name}" />
+                            </div>
+                            <div class="channel-info">
+                                <div class="channel-name">${channel.name}</div>
+                                <div class="channel-type">${channel.type.toUpperCase()}</div>
+                            </div>
+                        </div>
+                    </li>
+                `).join('');
+
+                document.querySelectorAll('.channel-item').forEach(item => {
+                    item.addEventListener('click', async () => {
+                        const channel = channels[parseInt(item.dataset.channelIndex)];
+                        currentChannel = channel;
+                        await playStream(channel);
+                        
+                        document.querySelectorAll('.channel-item').forEach(i => i.classList.remove('active'));
+                        item.classList.add('active');
+                    });
+                });
+            }
+
+            renderChannelList(channels);
+            if (channels.length > 0) {
+                currentChannel = channels[0];
+                await playStream(currentChannel);
+            }
+
+            searchInput.addEventListener('input', (e) => {
+                const searchTerm = e.target.value.toLowerCase();
+                const filteredChannels = channels.filter(channel =>
+                    channel.name.toLowerCase().includes(searchTerm)
+                );
+                renderChannelList(filteredChannels);
+            });
+        });
