@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", async () => {
        const channels = [
 {
         name: 'NBA TV Philippines',
-        logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44_R-E0mvnrkges6a23wsAxC6kSCyHFZSAw&s',
+        logo: 'https://i.imgur.com/sG7zuX0.png',
         type: 'mpd',
         url: 'https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd',
         keyId: 'f36eed9e95f140fabbc88a08abbeafff',
@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", async () => {
                  },	 
          {        
         name: 'NBA🏀- GAME 4 - Denver Nuggets vs Oklahoma City Thunder 3:30am server1',
-        logo: 'https://i.imgur.com/sG7zuX0.png',
+        logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44_R-E0mvnrkges6a23wsAxC6kSCyHFZSAw&s',
         type: 'mpd',
         url: 'https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd',
         keyId: 'e31a5a81caff5d07ea2411a571fc2e59',
@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         name: 'NBA🏀- GAME 4 - Indiana Pacers vs Cleveland Cavaliers 8:00am server1',
         logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44_R-E0mvnrkges6a23wsAxC6kSCyHFZSAw&s',
         type: 'mpd',
-        url: 'https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd',
+        url: 'https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd',
         keyId: '60c0d9b41475e01db4ffb91ed557fbcc',
         key: '36ee40e58948ca15e3caba8d47b8f34b',
                  },	 
