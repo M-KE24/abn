@@ -50,13 +50,13 @@ document.addEventListener("DOMContentLoaded", async () => {
                  },	 
          {        
 name: 'NBA🏀- GAME 4 - Denver Nuggets vs Oklahoma City Thunder 3:30am',
-        url: 'https://v16.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8',
+        url: 'https://v18.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8',
         type: 'hls',
 		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10',
 	                             },	 
          {        
 name: 'NBA🏀- GAME 4 - Indiana Pacers vs Cleveland Cavaliers 8:00am',
-        url: 'https://v4.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8',
+        url: 'https://v12.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8',
         type: 'hls',
 		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10' 
          }
