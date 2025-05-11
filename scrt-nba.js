@@ -49,22 +49,16 @@ document.addEventListener("DOMContentLoaded", async () => {
         key: '0125600d0eb13359c28bdab4a2ebe75a',
                  },	 
          {        
-name: 'NBA🏀- GAME 3 - New York Knicks vs Boston Celtics 3:30am',
+name: 'NBA🏀- GAME 3 - Denver Nuggets vs Oklahoma City Thunder 3:30am',
         url: 'https://v16.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8',
         type: 'hls',
 		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10',
 	                             },	 
          {        
-name: 'NBA🏀- GAME 3 - Golden State Warriors vs Minnesota Timberwolves 8:30am',
+name: 'NBA🏀- GAME 3 - Indiana Pacers vs Cleveland Cavaliers 8:00am',
         url: 'https://v4.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8',
         type: 'hls',
-		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10',
-		        }, 
-		 {        
-name: 'WWE- BACKLASH 2025',
-        url: 'https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OGE3NDFjOTVjOWQwLTQ0N2EtNjcyNC1mYzA4LTE4Y2MyYWVm/master.m3u8?md5=8Z0pvnaryVaae-kvXMIL4g&expires=1746958322',
-        type: 'hls',
-		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGhaN6N-Uvoi5HUt4xrlv62hs45UuCwIO_nmzVLJ6YiiBVVaOEPHFkYOQ&s=10'	 
+		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10' 
          }
             ];	
 			
