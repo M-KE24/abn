@@ -48,31 +48,15 @@ document.addEventListener("DOMContentLoaded", async () => {
         keyId: 'f36eed9e95f140fabbc88a08abbeafff',
         key: '0125600d0eb13359c28bdab4a2ebe75a',
                  },	 
-         {        
-        name: 'NBA🏀- GAME 4 - Denver Nuggets vs Oklahoma City Thunder 3:30am server1',
-        logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44_R-E0mvnrkges6a23wsAxC6kSCyHFZSAw&s',
-        type: 'mpd',
-        url: 'https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd',
-        keyId: 'e31a5a81caff5d07ea2411a571fc2e59',
-        key: '96c5ef69479732ae734f962748c19729',
-                 },	 
-         {        
-        name: 'NBA🏀- GAME 4 - Indiana Pacers vs Cleveland Cavaliers 8:00am server1',
-        logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44_R-E0mvnrkges6a23wsAxC6kSCyHFZSAw&s',
-        type: 'mpd',
-        url: 'https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd',
-        keyId: '60c0d9b41475e01db4ffb91ed557fbcc',
-        key: '36ee40e58948ca15e3caba8d47b8f34b',
-                 },	 
          {        		 
-name: 'NBA🏀- GAME 4 - Denver Nuggets vs Oklahoma City Thunder 3:30am server2',
-        url: 'https://v18.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8',
+name: 'NBA🏀- GAME 4 - Boston Celtics vs New York Knicks 7:30am',
+        url: 'https://v14.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8',
         type: 'hls',
 		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10',
 	                             },	 
          {        
-name: 'NBA🏀- GAME 4 - Indiana Pacers vs Cleveland Cavaliers 8:00am server2',
-        url: 'https://v12.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8',
+name: 'NBA🏀- GAME 4 - Minnesota Timberwolves vs Golden State Warriors 10:00am',
+        url: 'https://v16.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8',
         type: 'hls',
 		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10' 
          }
