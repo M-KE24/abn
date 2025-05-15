@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             }
        const channels = [
 {
-        name: 'NBA TV Philippines',
+        name: 'NBA TV Philippines',	
         logo: 'https://i.imgur.com/sG7zuX0.png',
         type: 'mpd',
         url: 'https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd',
@@ -49,16 +49,12 @@ document.addEventListener("DOMContentLoaded", async () => {
         key: '0125600d0eb13359c28bdab4a2ebe75a',
                  },	 
          {        		 
-name: 'NBA🏀- GAME 5 - Cleveland Cavaliers vs Indiana Pacers 7:00am',
-        url: 'https://v12.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8',
-        type: 'hls',
-		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10',
-	                             },	 
-         {        
-name: 'NBA🏀- GAME 5 - Oklahoma City Thunder vs Denver Nuggets 9:30',
-        url: 'https://v4.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8',
-        type: 'hls',
-		logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P3joEa5YrAYgs-W8KNl81HP2DHf-p0zSisFeWwV6W4pnkp8mfiwwF9I&s=10' 
+        name: 'NBA- GAME 6-Oklahoma City Thunder vsDenver Nuggets (OKC LEADS 3-2)',
+        logo: 'https://i.imgur.com/sG7zuX0.png',
+        type: 'mpd',
+        url: 'https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd',
+        keyId: 'f36eed9e95f140fabbc88a08abbeafff',
+        key: '0125600d0eb13359c28bdab4a2ebe75a'
          }
             ];	
 			
