@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", async () => {
                  },	 
          {        		 
         name: 'NBA- GAME 6-Oklahoma City Thunder vsDenver Nuggets (OKC LEADS 3-2)',
-        logo: 'https://i.imgur.com/sG7zuX0.png',
+        logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKvWOlRRjQqfWsCLfQB-Or4BQcA8juneenZJDBv5t6cBFXhqEvucmeVE&s=10',
         type: 'mpd',
         url: 'https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd',
         keyId: 'f36eed9e95f140fabbc88a08abbeafff',
