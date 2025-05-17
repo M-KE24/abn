@@ -49,6 +49,14 @@ document.addEventListener("DOMContentLoaded", async () => {
         key: '0125600d0eb13359c28bdab4a2ebe75a',
                  },	 
          {        		 
+        name: 'UFC - Gilbert Burns vs. Morales 7:00am',	
+        logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7dgszPIatI8nGoKISbH8z0QALb4qFBR9GjCGEZ8QtuoeHLEsOo2xqaYI&s=10',
+        type: 'mpd',
+        url: 'https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd',
+        keyId: 'ae26845bd33038a9c0774a0981007294',
+        key: '63ac662dde310cfb4cc6f9b43b34196d',
+                 },	 
+         {        		 
         name: 'NBA- GAME 7-Denver Nuggets vs Oklahoma City Thunder 3:30am (tie 3-3)',
         logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKvWOlRRjQqfWsCLfQB-Or4BQcA8juneenZJDBv5t6cBFXhqEvucmeVE&s=10',
         type: 'mpd',
