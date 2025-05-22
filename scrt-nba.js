@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", async () => {
          {        		 
         name: 'Final Destination Bloodlines - 2025',
         logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Final_Destination_Bloodlines_%282025%29_poster.jpg/250px-Final_Destination_Bloodlines_%282025%29_poster.jpg',
-        type: 'htl',
+        type: 'hls',
         url: 'http://tevh.9ljp.com/vod/1/2025/05/19/70fc8ac5b218/index5.m3u8?wsSecret=5dd65362e7b3c0dae85b45bc2a47b317&wsTime=682f56fa'		 
          }
             ];	
