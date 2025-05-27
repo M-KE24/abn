@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         key: '0125600d0eb13359c28bdab4a2ebe75a',
                  },	 
          {        		 
-        name: 'NBA- GAME 4-Oklahoma City Thunder vs Minnesota Timberwolves 8:30am (May 27, 2025)',
+        name: 'NBA- GAME 4-Indiana Pacers vs New York Knicks 8:00am (May 28, 2025)',
         logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKvWOlRRjQqfWsCLfQB-Or4BQcA8juneenZJDBv5t6cBFXhqEvucmeVE&s=10',
         type: 'mpd',
         url: 'https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd',
