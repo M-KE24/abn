@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         name: 'NBA2- GAME 5-Indiana Pacers vs New York Knicks 8:00am (May 30, 2025)',
         logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKvWOlRRjQqfWsCLfQB-Or4BQcA8juneenZJDBv5t6cBFXhqEvucmeVE&s=10',
         type: 'hls',
-        url: 'https://m3.merichunidya.com:999/hls/mnewyorkknicks.m3u8?md5=datkpanDe6juLdfbfisyPA&expires=1748568817'
+        url: ''
         
          }
             ];	
