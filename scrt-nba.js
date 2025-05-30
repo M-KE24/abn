@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         key: '0125600d0eb13359c28bdab4a2ebe75a',
                  },	 
          {        		 
-        name: 'NBA- GAME 5-Indiana Pacers vs New York Knicks 8:00am (May 30, 2025)',
+        name: 'NBA- GAME 6-Indiana Pacers vs New York Knicks 8:00am (June 1, 2025)',
         logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKvWOlRRjQqfWsCLfQB-Or4BQcA8juneenZJDBv5t6cBFXhqEvucmeVE&s=10',
         type: 'mpd',
         url: 'https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd',
@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         key: '0125600d0eb13359c28bdab4a2ebe75a',
 		                  },	 
          {        		 
-        name: 'NBA2- GAME 5-Indiana Pacers vs New York Knicks 8:00am (May 30, 2025)',
+        name: 'NBA2- GAME 6-Indiana Pacers vs New York Knicks 8:00am (June 1, 2025)',
         logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKvWOlRRjQqfWsCLfQB-Or4BQcA8juneenZJDBv5t6cBFXhqEvucmeVE&s=10',
         type: 'hls',
         url: 'https://14c51.crackstreamslivehd.com/nba1/index.m3u8?token=d4b17d36fafe4d4534a86c7ce155beeb75843b34-fb-1748585608-1748553208'
