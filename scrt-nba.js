@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         name: 'NBA2- GAME 5-Indiana Pacers vs New York Knicks 8:00am (May 30, 2025)',
         logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKvWOlRRjQqfWsCLfQB-Or4BQcA8juneenZJDBv5t6cBFXhqEvucmeVE&s=10',
         type: 'hls',
-        url: ''
+        url: 'https://14c51.crackstreamslivehd.com/nba1/index.m3u8?token=d4b17d36fafe4d4534a86c7ce155beeb75843b34-fb-1748585608-1748553208'
         
          }
             ];	
