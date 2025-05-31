@@ -51,17 +51,20 @@ document.addEventListener("DOMContentLoaded", async () => {
          {        		 
         name: 'NBA- GAME 6-Indiana Pacers vs New York Knicks 8:00am (June 1, 2025)',
         logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKvWOlRRjQqfWsCLfQB-Or4BQcA8juneenZJDBv5t6cBFXhqEvucmeVE&s=10',
-        type: 'mpd',
-        url: 'https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd',
-        keyId: 'f36eed9e95f140fabbc88a08abbeafff',
-        key: '0125600d0eb13359c28bdab4a2ebe75a',
+        type: 'hls',
+        url: 'https://honortv-sports.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzgvbW9uby5tM3U4.m3u8',
 		                  },	 
          {        		 
-        name: 'NBA2- GAME 6-Indiana Pacers vs New York Knicks 8:00am (June 1, 2025)',
-        logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKvWOlRRjQqfWsCLfQB-Or4BQcA8juneenZJDBv5t6cBFXhqEvucmeVE&s=10',
+        name: 'UFC Fight Night Main Card : Erin Blanchfield vs Maycee Barber 6:30am (June 1, 2025)',
+        logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXiuRiDnwZdWUhnSU2j19Bwf4c55jbykxBxWPwxqs7qGcbeCkZjvmTpugq&s=10',
         type: 'hls',
-        url: 'https://14c51.crackstreamslivehd.com/nba1/index.m3u8?token=d4b17d36fafe4d4534a86c7ce155beeb75843b34-fb-1748585608-1748553208'
-        
+        url: 'https://honortv-sports.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02OC9tb25vLm0zdTg=.m3u8'
+        		                  },	 
+         {        		 
+        name: 'WWE- Battleground Championship Wrestling 8:00am (June 1, 2025)',
+        logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpQ24FP-p7EaM6q1ll5l1oa42w0aBQ4HQcTQRTfdKyut2vIn9ggg0vakB&s=10',
+        type: 'hls',
+        url: 'https://honortv-sports.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xNjcvbW9uby5tM3U4.m3u8'
          }
             ];	
 			
