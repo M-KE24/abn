@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         name: 'NBA - GAME 1-Indiana Pacers vs Oklahoma City Thunder 8:30am (June 6, 2025)',
         logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKvWOlRRjQqfWsCLfQB-Or4BQcA8juneenZJDBv5t6cBFXhqEvucmeVE&s=10',
         type: 'hls',
-        url: 'https://ott.udptv.org/stream/udptvus/tnt/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a',
+        url: 'https://honortv-sports.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8',
                  },	 
          {        		 
         name: 'NBA - GAME 1-Indiana Pacers vs Oklahoma City Thunder 8:30am (June 6, 2025)',
