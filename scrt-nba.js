@@ -49,13 +49,15 @@ document.addEventListener("DOMContentLoaded", async () => {
         key: '0125600d0eb13359c28bdab4a2ebe75a',
                  },	 
          {        		 
-        name: 'NBA - GAME 1-Indiana Pacers vs Oklahoma City Thunder 8:30am (June 6, 2025)',
+        name: 'NBA - GAME 1-Indiana Pacers vs Oklahoma City Thunder 8:00am (June 9, 2025)',
         logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKvWOlRRjQqfWsCLfQB-Or4BQcA8juneenZJDBv5t6cBFXhqEvucmeVE&s=10',
-        type: 'hls',
-        url: 'https://honortv-sports.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8',
+        type: 'mpd',
+        url: 'https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd',
+        keyId: 'f36eed9e95f140fabbc88a08abbeafff',
+        key: '0125600d0eb13359c28bdab4a2ebe75a',
                  },	 
          {        		 
-        name: 'NBA - GAME 1-Indiana Pacers vs Oklahoma City Thunder 8:30am (June 6, 2025)',
+        name: 'NBA - GAME 2-Indiana Pacers vs Oklahoma City Thunder 8:30am (June 9, 2025)',
         logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44_R-E0mvnrkges6a23wsAxC6kSCyHFZSAw&s',
         type: 'hls',
         url: 'https://honortv-sports.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzgvbW9uby5tM3U4.m3u8'	 
